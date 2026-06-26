@@ -9,22 +9,19 @@ The project was developed to explore the computer vision fundamentals behind lan
 ---
 
 ## Demo
-
-> Add a GIF here
-
-![Demo](docs/demo.gif)
+![Demo](docs/demo.mp4)
 
 ---
 
 ## Results
 
-| Original Frame | Bird's Eye View |
-|----------------|-----------------|
-| *(Screenshot)* | *(Screenshot)* |
+| Original Frame | 
+|----------------|
+| (docs/docs/screenshots/orignal.png)|
 
-| Edge Detection | Final Output |
-|----------------|--------------|
-| *(Screenshot)* | *(Screenshot)* |
+| Final Output |
+|--------------|
+|(docs/docs/screenshots/output.png)|
 
 ---
 
@@ -105,7 +102,7 @@ Tested on
 Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Spatial-Lane-Detection-Engine.git
+git clone https://github.com/patagobi01/Advanced-Spatial-Lane-Detection-Engine.git
 ```
 
 Install dependencies
