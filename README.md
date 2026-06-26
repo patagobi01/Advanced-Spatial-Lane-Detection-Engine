@@ -9,7 +9,7 @@ The project was developed to explore the computer vision fundamentals behind lan
 ---
 
 ## Demo
-![Demo](docs/demo.mp4)
+![Demo](docs/demo.gif)
 
 ---
 
