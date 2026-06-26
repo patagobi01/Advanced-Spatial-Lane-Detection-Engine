@@ -17,11 +17,11 @@ The project was developed to explore the computer vision fundamentals behind lan
 
 | Original Frame | 
 |----------------|
-| (docs/docs/screenshots/orignal.png)|
+| (![alt text](image-1.png))|
 
 | Final Output |
 |--------------|
-|(docs/docs/screenshots/output.png)|
+|(![alt text](image.png))|
 
 ---
 
